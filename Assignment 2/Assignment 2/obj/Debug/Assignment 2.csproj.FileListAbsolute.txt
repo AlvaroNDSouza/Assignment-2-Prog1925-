@@ -1,0 +1,14 @@
+C:\Users\alvar\source\repos\Flowchart\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\alvar\source\repos\Flowchart\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\alvar\source\repos\Flowchart\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\alvar\source\repos\Flowchart\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Flowchart\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Flowchart\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\alvar\source\repos\Flowchart\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 2\Flowchart\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 2\Flowchart\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 2\Flowchart\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 2\Flowchart\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 2\Flowchart\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 2\Flowchart\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 2\Flowchart\Assignment 2\obj\Debug\Assignment 2.pdb
